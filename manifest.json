@@ -1,5 +1,5 @@
 {
-  "manifest_version": 1,
+  "manifest_version": 2,
 
   "name": "SacRate",
   "description": "This extension will show you the RateMyProfessor rating on the active page",
